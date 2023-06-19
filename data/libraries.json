@@ -135,7 +135,7 @@
         "repo_url": "https://github.com/vanjs-org/van",
         "size": "0.8 KB",
         "web_components": false,
-        "cdn_url": "https://cdn.jsdelivr.net/gh/vanjs-org/van/public/van-0.12.2.min.js",
+        "cdn_url": "https://cdn.jsdelivr.net/gh/vanjs-org/van/public/van-latest.min.js",
         "categories": ["ui"]
     },
     {
